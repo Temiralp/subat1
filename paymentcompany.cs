@@ -7,5 +7,9 @@ public void TestPayment(){}
 }
 
 public void GetData()
-
     public void TestData()
+public class UıManager{
+
+
+    
+}
