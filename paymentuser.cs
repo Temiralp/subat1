@@ -1,1 +1,7 @@
-public class PaymentUser{}
+public class PaymentUser{
+
+public void PaymentUserTest(){
+
+}
+
+}
