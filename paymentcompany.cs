@@ -5,3 +5,5 @@ public void TestPayment(){}
 
 
 }
+
+public void GetData()

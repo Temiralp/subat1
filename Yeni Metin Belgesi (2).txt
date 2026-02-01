@@ -1,0 +1,18 @@
+git checkout paymentcompany   paymentcompany dalına geçin  
+paymentcompany.cs dosyasında 5. satıra test1  yazın
+git add .
+git commit -m "test1 eklendi"
+
+git checkout paymentuser  
+paymentcompany.cs dosyasında 5. satıra test2 yazın
+git add .
+git commit -m "test2"
+
+git checkout payment
+git merge paymentuser  (ilk birleştiren için çakışma çıkmayacaktır.)
+
+git merge paymentcompany (aşağıda ki confilict çakışma uyarısını gördüğünüzden emin olun)
+dosyadaki işaretleri silin <<<<==== gibi
+kaydedin
+git add .
+git commit -m "confilict resolved"
