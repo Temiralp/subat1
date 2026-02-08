@@ -9,3 +9,9 @@ public void PaymentLogIn(){
 }
 
 }
+
+test {
+    
+}
+
+public AdminTest{}
